@@ -4,3 +4,5 @@ compilare l'immagine
 docker build -t oniram88/docker-rails_5:pg .
 # dal repo mysql
 docker build -t oniram88/docker-rails_5:mysql .
+# dal repo generale
+docker build -t oniram88/docker-rails_5 .
